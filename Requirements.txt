@@ -1,0 +1,15 @@
+
+R version 4.2.1 (2022-06-23 ucrt)
+(platform: x86_64-w64-mingw32)
+
+
+
+Packages used:
+
+- dexter 1.2.1
+- mnlfa 0.2.4
+- tidyverse 2.0.0
+- haven 2.5.1
+- dendextend 1.17.1
+- knitr 1.40
+- xtable 1.8.4
