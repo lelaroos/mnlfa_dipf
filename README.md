@@ -23,6 +23,7 @@ The folder is structured as follows:
 |1 simulate data.R              |R-script for simulating the data|
 |2 MNLFA_cont.R                 |R-script for fitting the MNLFA to each data set using a continuous background variable |
 |3 MNLFA_dich.R                 |R-script for fitting the MNLFA to each data set using a dichotomized background variable |
+|4 Create tables.R              |R-script for creating the tables (as found in the thesis paper) |
 |Obtain reg par.R               |R-script for finding the optimal regularization parameter |
 |/RDS_objects                   |Folder with RDS objects created by running the R scripts|
 
