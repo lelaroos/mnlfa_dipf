@@ -16,7 +16,7 @@ The folder is structured as follows:
 |3 MNLFA_dich.R                 |R-script for fitting the MNLFA to each data set using a dichotomized background variable |
 |/RDS_objects                   |Folder with RDS objects created by running the R scripts|
 
-Note that the R scripts for fitting the models (2 and 3) reference a folder "MNLFA models" within the "RDS objects" folder. This folder can be created to store the list of MNLFA models. However, the files were to large to be stored on GitHub, but they can be produced by running the code (this might take some time).
+Note that the R scripts for fitting the models (2 and 3) reference a folder "MNLFA models" within the "RDS objects" folder. This folder can be created to store the list of MNLFA models. However, the files were to large to be stored on GitHub. They can be requested through the author (see Contact), but they can also be produced by running the code (this might take some time).
 
 ## PISA analysis
 Data from the Programme for International Student Assessment (PISA) was used to provide a real data example. The data can be obtained [here](https://www.oecd.org/pisa/data/2015database/). A pre-processed data set was provided by the project's supervisor, Remco Feskens from [Cito](https://www.cito.nl/). The goal of the analysis was to explore whether or not the DIPF-MNLFA method could identify item clusters based on item content. Additionally, the focus was again on the effects of dichotomization (in terms of clustering results as well as computational time). 
