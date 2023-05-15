@@ -37,10 +37,9 @@ mnlfa_mod <- function(data){
 
 # fit MNLFA to all data sets 
 
-# models <- map(data, mnlfa_mod)
+models <- map(data, mnlfa_mod)
 # saveRDS(models, "RDS_objects/MNLFA_models/cont_mods.RDS")
-
-models <- readRDS("RDS_objects/MNLFA_models/cont_mods.RDS")
+# models <- readRDS("RDS_objects/MNLFA_models/cont_mods.RDS")
 # Obtain kappa estimates --------------------------------------------------
 
 # function to obtain kappa estimates 
