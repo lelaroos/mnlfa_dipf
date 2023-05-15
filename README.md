@@ -41,7 +41,7 @@ Ethical approval for this study was provided by the Faculty Ethics Review Board 
 ## Contact
 This repository will remain publicly available, it is managed by Lela Roos. For questions about this repository or the overall study, they can be contacted at l.a.roos(at)students.uu.nl. 
 
-This thesis project was supervised by [Remco Feskens](https://www.cito.nl/kennis-en-innovatie/psychometrisch-onderzoek-en-dienstverlening/team/remco-feskens) and [Laura Kolbe]()https://www.cito.nl/kennis-en-innovatie/psychometrisch-onderzoek-en-dienstverlening/team/laura-kolbe at Cito.
+This thesis project was supervised by [Remco Feskens](https://www.cito.nl/kennis-en-innovatie/psychometrisch-onderzoek-en-dienstverlening/team/remco-feskens) and [Laura Kolbe](https://www.cito.nl/kennis-en-innovatie/psychometrisch-onderzoek-en-dienstverlening/team/laura-kolbe) at Cito.
 
 
 
