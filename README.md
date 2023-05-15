@@ -39,7 +39,7 @@ The folder is structured as follows:
 |1 data prep.R                  |R-script for data preparation/cleaning |
 |2 Dexter.R                     |R-script for preliminary pscyhometric analyses using the `dexter` R package |
 |3 MNLFA_cont.R                 |R-script for fitting the MNLFA using a continous background variable |
-|3 MNLFA_dich.R                 |R-script for fitting the MNLFA using a dichotomized background variable |
+|4 MNLFA_dich.R                 |R-script for fitting the MNLFA using a dichotomized background variable |
 |5 Compare models.R             |R-script for comparing the continous and dichotomous models on computational time and regularized parameters |
 |6 Create clustering tables.R   |R-script for comparing the clustering results between the continous and dichotomous models  |
 |/Figures                       |Folder with figures obtained in the preliminary analyses |
