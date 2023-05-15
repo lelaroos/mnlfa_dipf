@@ -23,6 +23,7 @@ The folder is structured as follows:
 |1 simulate data.R              |R-script for simulating the data|
 |2 MNLFA_cont.R                 |R-script for fitting the MNLFA to each data set using a continuous background variable |
 |3 MNLFA_dich.R                 |R-script for fitting the MNLFA to each data set using a dichotomized background variable |
+|Obtain reg par.R               |R-script for finding the optimal regularization parameter |
 |/RDS_objects                   |Folder with RDS objects created by running the R scripts|
 
 Note that the R scripts for fitting the models (2 and 3) reference a folder "MNLFA models" within the "RDS objects" folder. This folder can be created to store the list of MNLFA models. However, the files were to large to be stored on GitHub. They can be requested through the author (see Contact), but they can also be produced by running the code (this might take some time).
