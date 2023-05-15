@@ -19,7 +19,7 @@ The folder is structured as follows:
 Note that the R scripts for fitting the models (2 and 3) reference a folder "MNLFA models" within the "RDS objects" folder. This folder can be created to store the list of MNLFA models. However, the files were to large to be stored on GitHub, but they can be produced by running the code (this might take some time).
 
 ## PISA analysis
-Data from the Programme for International Student Assessment (PISA) was used to provide a real data example. The goal of the analysis was to explore whether or not the DIPF-MNLFA method could identify item clusters based on item content. Additionally, the focus was again on the effects of dichotomization (in terms of clustering results as well as computational time). 
+Data from the Programme for International Student Assessment (PISA) was used to provide a real data example. The data can be obtained [here](https://www.oecd.org/pisa/data/2015database/). A pre-processed data set was provided by the project's supervisor, Remco Feskens from [Cito](https://www.cito.nl/). The goal of the analysis was to explore whether or not the DIPF-MNLFA method could identify item clusters based on item content. Additionally, the focus was again on the effects of dichotomization (in terms of clustering results as well as computational time). 
 
 The folder is structured as follows:
 
@@ -34,6 +34,15 @@ The folder is structured as follows:
 |/Figures                       |Folder with figures obtained in the preliminary analyses |
 |/Find optimal reg par          |Folder containing the scripts used to find the optimal regularization parameter for each model |
 |/RDS_objects                   |Folder with RDS objects created by running the R scripts|
+
+## Ethics
+Ethical approval for this study was provided by the Faculty Ethics Review Board (from the Faculty of Social & Behavioural Sciences at Utrecht University). The protocol reference numbers are 22-1892 (for the simulation study) and 23-0717 (for the PISA analyses). More information about the PISA data used in this study can be found in the [PISA 2015 Technical Report](https://www.oecd.org/pisa/data/2015-technical-report/). See also the [OECD Personal Data Protection page](https://www.oecd.org/general/data-protection.htm). 
+
+## Contact
+This repository will remain publicly available, it is managed by Lela Roos. For questions about this repository or the overall study, they can be contacted at l.a.roos(at)students.uu.nl. 
+
+This thesis project was supervised by [Remco Feskens](https://www.cito.nl/kennis-en-innovatie/psychometrisch-onderzoek-en-dienstverlening/team/remco-feskens) and [Laura Kolbe]()https://www.cito.nl/kennis-en-innovatie/psychometrisch-onderzoek-en-dienstverlening/team/laura-kolbe at Cito.
+
 
 
 
