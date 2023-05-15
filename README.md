@@ -1,6 +1,6 @@
 # Thesis project: Utilizing the MNLFA model to test for DIPF with a continuous background variable
 
-This repository contains the code used for my Master's Thesis project titled '"Utilizing the MNLFA model to test for DIPF with a continuous background variable". In this project, method to test for differential item-pair functioning (DIPF) using a continuous background variable was developed, by clustering the estimates from a Moderated Nonlinear Factor Analysis (MNLFA) model. This method, the DIPF-MNLFA method, allows for assessing measurement invariance across a continuous background variable, while taking the non-identifiability of the item difficulties into account. 
+This repository contains the code used for the Master's Thesis project titled "Utilizing the MNLFA model to test for DIPF with a continuous background variable". In this project, method to test for differential item-pair functioning (DIPF) using a continuous background variable was developed, by clustering the estimates from a Moderated Nonlinear Factor Analysis (MNLFA) model. This method, the DIPF-MNLFA method, allows for assessing measurement invariance across a continuous background variable, while taking the non-identifiability of the item difficulties into account. 
 
 The repository is split up into two folders, one folder contains the R scripts used in a simulation study, the other contains the scripts used in a real data example using PISA data. Both will now briefly be explained and discussed.
 
