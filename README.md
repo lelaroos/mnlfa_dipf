@@ -8,6 +8,7 @@ The main folder of the repository contains the following files:
 | -----------------             | ------------- |
 |README.md                      |Current file, contains information on the repository|
 |LICENSE                        |License for the project|
+|Requirements.txt               |Contains info on versions of R and packages used|
 
 The rest of the repository is split up into two folders, one folder contains the R scripts used in a simulation study, the other contains the scripts used in a real data example using PISA data. Both will now briefly be explained and discussed.
 
@@ -45,6 +46,9 @@ The folder is structured as follows:
 
 ## Ethics
 Ethical approval for this study was provided by the Faculty Ethics Review Board (from the Faculty of Social & Behavioural Sciences at Utrecht University). The protocol reference numbers are 22-1892 (for the simulation study) and 23-0717 (for the PISA analyses). More information about the PISA data used in this study can be found in the [PISA 2015 Technical Report](https://www.oecd.org/pisa/data/2015-technical-report/). See also the [OECD Personal Data Protection page](https://www.oecd.org/general/data-protection.htm). 
+
+## License 
+This repository is available under the GNU General Public License v3.0. See also the `LICENSE` file. 
 
 ## Contact
 This repository will remain publicly available, it is managed by Lela Roos. For questions about this repository or the overall study, they can be contacted at l.a.roos(at)students.uu.nl. 
